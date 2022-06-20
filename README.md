@@ -1,5 +1,5 @@
 # RunnableHandler
 
-Android Development / Java Tutorials - Lesson 12
+Android Development / Java Tutorial - Lesson 12
 
 Runnable | Handler
